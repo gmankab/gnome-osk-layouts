@@ -14,6 +14,9 @@ Changes:
 Installation:
 
 ```bash
+git clone https://codeberg.org/twosaladcodes/gnome-osk-layouts.git
+cd gnome-osk-layouts
+
 # backup the original resources
 make backup
 
