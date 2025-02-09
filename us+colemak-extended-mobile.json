@@ -7,6 +7,48 @@
         [
           {
             "height": 0.75,
+            "keyval": "0xff09",
+            "label": "Tab",
+            "width": 2
+          },
+          {
+            "action": "modifier",
+            "height": 0.75,
+            "keyval": "0xffe3",
+            "label": "Ctrl",
+            "width": 2
+          },
+          {
+            "action": "modifier",
+            "height": 0.75,
+            "keyval": "0xffe9",
+            "label": "Alt",
+            "width": 2
+          },
+          {
+            "height": 0.75,
+            "iconName": "go-previous-symbolic",
+            "keyval": "0xff51"
+          },
+          {
+            "height": 0.75,
+            "iconName": "go-down-symbolic",
+            "keyval": "0xff54"
+          },
+          {
+            "height": 0.75,
+            "iconName": "go-up-symbolic",
+            "keyval": "0xff52"
+          },
+          {
+            "height": 0.75,
+            "iconName": "go-next-symbolic",
+            "keyval": "0xff53"
+          }
+        ],
+        [
+          {
+            "height": 0.75,
             "strings": [
               "1"
             ]
@@ -299,6 +341,48 @@
       "level": "shift",
       "mode": "latched",
       "rows": [
+        [
+          {
+            "height": 0.75,
+            "keyval": "0xff09",
+            "label": "Tab",
+            "width": 2
+          },
+          {
+            "action": "modifier",
+            "height": 0.75,
+            "keyval": "0xffe3",
+            "label": "Ctrl",
+            "width": 2
+          },
+          {
+            "action": "modifier",
+            "height": 0.75,
+            "keyval": "0xffe9",
+            "label": "Alt",
+            "width": 2
+          },
+          {
+            "height": 0.75,
+            "iconName": "go-previous-symbolic",
+            "keyval": "0xff51"
+          },
+          {
+            "height": 0.75,
+            "iconName": "go-down-symbolic",
+            "keyval": "0xff54"
+          },
+          {
+            "height": 0.75,
+            "iconName": "go-up-symbolic",
+            "keyval": "0xff52"
+          },
+          {
+            "height": 0.75,
+            "iconName": "go-next-symbolic",
+            "keyval": "0xff53"
+          }
+        ],
         [
           {
             "height": 0.75,
@@ -638,6 +722,63 @@
         ],
         [
           {
+            "action": "modifier",
+            "height": 0.75,
+            "keyval": "0xffe1",
+            "label": "Shift",
+            "width": 2
+          },
+          {
+            "height": 0.75,
+            "strings": [
+              "c"
+            ]
+          },
+          {
+            "height": 0.75,
+            "strings": [
+              "v"
+            ]
+          },
+          {
+            "height": 0.75,
+            "strings": [
+              ":"
+            ]
+          },
+          {
+            "height": 0.75,
+            "strings": [
+              "w"
+            ]
+          },
+          {
+            "height": 0.75,
+            "strings": [
+              "q"
+            ]
+          },
+          {
+            "height": 0.75,
+            "strings": [
+              "a"
+            ]
+          },
+          {
+            "height": 0.75,
+            "strings": [
+              "e"
+            ]
+          },
+          {
+            "height": 0.75,
+            "strings": [
+              "~"
+            ]
+          }
+        ],
+        [
+          {
             "strings": [
               "1",
               "¹",
@@ -913,6 +1054,63 @@
             "height": 0.75,
             "iconName": "go-next-symbolic",
             "keyval": "0xff53"
+          }
+        ],
+        [
+          {
+            "action": "modifier",
+            "height": 0.75,
+            "keyval": "0xffe1",
+            "label": "Shift",
+            "width": 2
+          },
+          {
+            "height": 0.75,
+            "strings": [
+              "c"
+            ]
+          },
+          {
+            "height": 0.75,
+            "strings": [
+              "v"
+            ]
+          },
+          {
+            "height": 0.75,
+            "strings": [
+              ":"
+            ]
+          },
+          {
+            "height": 0.75,
+            "strings": [
+              "w"
+            ]
+          },
+          {
+            "height": 0.75,
+            "strings": [
+              "q"
+            ]
+          },
+          {
+            "height": 0.75,
+            "strings": [
+              "a"
+            ]
+          },
+          {
+            "height": 0.75,
+            "strings": [
+              "e"
+            ]
+          },
+          {
+            "height": 0.75,
+            "strings": [
+              "~"
+            ]
           }
         ],
         [
