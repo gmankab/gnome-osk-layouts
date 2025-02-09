@@ -1,0 +1,854 @@
+{
+  "levels": [
+    {
+      "level": "default",
+      "mode": "default",
+      "rows": [
+        [
+          {
+            "height": 0.75,
+            "keyval": "0xff09",
+            "label": "Tab",
+            "width": 2
+          },
+          {
+            "action": "modifier",
+            "height": 0.75,
+            "keyval": "0xffe3",
+            "label": "Ctrl",
+            "width": 2
+          },
+          {
+            "action": "modifier",
+            "height": 0.75,
+            "keyval": "0xffe9",
+            "label": "Alt",
+            "width": 2
+          },
+          {
+            "height": 0.75,
+            "iconName": "go-up-symbolic",
+            "keyval": "0xff52"
+          },
+          {
+            "height": 0.75,
+            "iconName": "go-down-symbolic",
+            "keyval": "0xff54"
+          },
+          {
+            "height": 0.75,
+            "iconName": "go-previous-symbolic",
+            "keyval": "0xff51"
+          },
+          {
+            "height": 0.75,
+            "iconName": "go-next-symbolic",
+            "keyval": "0xff53"
+          }
+        ],
+        [
+          {
+            "strings": [
+              "ض"
+            ]
+          },
+          {
+            "strings": [
+              "ص"
+            ]
+          },
+          {
+            "strings": [
+              "ث"
+            ]
+          },
+          {
+            "strings": [
+              "ق"
+            ]
+          },
+          {
+            "strings": [
+              "ف"
+            ]
+          },
+          {
+            "strings": [
+              "غ"
+            ]
+          },
+          {
+            "strings": [
+              "ع"
+            ]
+          },
+          {
+            "strings": [
+              "ه",
+              "ه‍"
+            ]
+          },
+          {
+            "strings": [
+              "خ"
+            ]
+          },
+          {
+            "strings": [
+              "ح"
+            ]
+          },
+          {
+            "strings": [
+              "ج"
+            ]
+          }
+        ],
+        [
+          {
+            "strings": [
+              "ش"
+            ]
+          },
+          {
+            "strings": [
+              "س"
+            ]
+          },
+          {
+            "strings": [
+              "ی"
+            ]
+          },
+          {
+            "strings": [
+              "ب"
+            ]
+          },
+          {
+            "strings": [
+              "ل"
+            ]
+          },
+          {
+            "strings": [
+              "ا",
+              "آ",
+              "ء",
+              "أ",
+              "إ",
+              "ٱ"
+            ]
+          },
+          {
+            "strings": [
+              "ت"
+            ]
+          },
+          {
+            "strings": [
+              "ن"
+            ]
+          },
+          {
+            "strings": [
+              "م"
+            ]
+          },
+          {
+            "strings": [
+              "ک"
+            ]
+          },
+          {
+            "strings": [
+              "گ"
+            ]
+          }
+        ],
+        [
+          {
+            "strings": [
+              "ظ"
+            ]
+          },
+          {
+            "strings": [
+              "ط"
+            ]
+          },
+          {
+            "strings": [
+              "ژ"
+            ]
+          },
+          {
+            "strings": [
+              "ز"
+            ]
+          },
+          {
+            "strings": [
+              "ر"
+            ]
+          },
+          {
+            "strings": [
+              "ذ"
+            ]
+          },
+          {
+            "strings": [
+              "د"
+            ]
+          },
+          {
+            "strings": [
+              "پ"
+            ]
+          },
+          {
+            "strings": [
+              "و"
+            ]
+          },
+          {
+            "strings": [
+              "چ"
+            ]
+          },
+          {
+            "action": "delete",
+            "iconName": "edit-clear-symbolic"
+          }
+        ],
+        [
+          {
+            "action": "levelSwitch",
+            "label": "۱۲۳؟",
+            "level": "opt",
+            "width": 1.5
+          },
+          {
+            "action": "emoji",
+            "iconName": "smile-symbolic"
+          },
+          {
+            "strings": [
+              "،"
+            ]
+          },
+          {
+            "strings": [
+              " "
+            ],
+            "width": 3
+          },
+          {
+            "iconName": "keyboard-zwnj-symbolic",
+            "keyval": "0x100200c"
+          },
+          {
+            "strings": [
+              ".",
+              "\"",
+              "'",
+              "#",
+              "-",
+              ":",
+              "!",
+              "،",
+              "؟",
+              "@",
+              "&",
+              "%",
+              "+",
+              "؛",
+              "/",
+              ")",
+              "("
+            ]
+          },
+          {
+            "action": "languageMenu",
+            "iconName": "keyboard-layout-symbolic"
+          },
+          {
+            "iconName": "keyboard-enter-symbolic",
+            "keyval": "0xff0d",
+            "width": 1.5
+          }
+        ]
+      ]
+    },
+    {
+      "level": "opt",
+      "mode": "locked",
+      "rows": [
+        [
+          {
+            "height": 0.75,
+            "keyval": "0xff09",
+            "label": "Tab",
+            "width": 2
+          },
+          {
+            "action": "modifier",
+            "height": 0.75,
+            "keyval": "0xffe3",
+            "label": "Ctrl",
+            "width": 2
+          },
+          {
+            "action": "modifier",
+            "height": 0.75,
+            "keyval": "0xffe9",
+            "label": "Alt",
+            "width": 2
+          },
+          {
+            "height": 0.75,
+            "iconName": "go-up-symbolic",
+            "keyval": "0xff52"
+          },
+          {
+            "height": 0.75,
+            "iconName": "go-down-symbolic",
+            "keyval": "0xff54"
+          },
+          {
+            "height": 0.75,
+            "iconName": "go-previous-symbolic",
+            "keyval": "0xff51"
+          },
+          {
+            "height": 0.75,
+            "iconName": "go-next-symbolic",
+            "keyval": "0xff53"
+          }
+        ],
+        [
+          {
+            "strings": [
+              "۱",
+              "¹",
+              "½",
+              "⅓",
+              "¼",
+              "⅛"
+            ]
+          },
+          {
+            "strings": [
+              "۲",
+              "²",
+              "⅔"
+            ]
+          },
+          {
+            "strings": [
+              "۳",
+              "³",
+              "¾",
+              "⅜"
+            ]
+          },
+          {
+            "strings": [
+              "۴",
+              "⁴"
+            ]
+          },
+          {
+            "strings": [
+              "۵",
+              "⅝"
+            ]
+          },
+          {
+            "strings": [
+              "۶"
+            ]
+          },
+          {
+            "strings": [
+              "۷",
+              "⅞"
+            ]
+          },
+          {
+            "strings": [
+              "۸"
+            ]
+          },
+          {
+            "strings": [
+              "۹"
+            ]
+          },
+          {
+            "strings": [
+              "۰",
+              "ⁿ",
+              "∅"
+            ]
+          }
+        ],
+        [
+          {
+            "strings": [
+              "٬",
+              "@"
+            ]
+          },
+          {
+            "strings": [
+              "٫",
+              "#"
+            ]
+          },
+          {
+            "strings": [
+              "﷼",
+              "$",
+              "¢",
+              "€",
+              "£",
+              "¥",
+              "₱"
+            ],
+            "smallerFontSize": true
+          },
+          {
+            "strings": [
+              "٪",
+              "%",
+              "‰"
+            ]
+          },
+          {
+            "strings": [
+              "&"
+            ]
+          },
+          {
+            "strings": [
+              "-",
+              "_",
+              "–",
+              "—",
+              "·"
+            ]
+          },
+          {
+            "strings": [
+              "+",
+              "±"
+            ]
+          },
+          {
+            "strings": [
+              "(",
+              "﴿",
+              ">",
+              "}",
+              "]"
+            ]
+          },
+          {
+            "strings": [
+              ")",
+              "﴾",
+              "<",
+              "{",
+              "["
+            ]
+          },
+          {
+            "strings": [
+              "/"
+            ]
+          }
+        ],
+        [
+          {
+            "action": "levelSwitch",
+            "label": "=/<",
+            "level": "opt+shift",
+            "width": 1.5
+          },
+          {
+            "strings": [
+              "*",
+              "★",
+              "٭"
+            ]
+          },
+          {
+            "strings": [
+              "«",
+              "“",
+              "”",
+              "«",
+              "»"
+            ]
+          },
+          {
+            "strings": [
+              "»",
+              "‘",
+              "’",
+              "‹",
+              "›"
+            ]
+          },
+          {
+            "strings": [
+              ":"
+            ]
+          },
+          {
+            "strings": [
+              "؛",
+              ";"
+            ]
+          },
+          {
+            "strings": [
+              "!",
+              "¡"
+            ]
+          },
+          {
+            "strings": [
+              "؟",
+              "?"
+            ]
+          },
+          {
+            "action": "delete",
+            "iconName": "edit-clear-symbolic",
+            "width": 1.5
+          }
+        ],
+        [
+          {
+            "action": "levelSwitch",
+            "label": "ا‌ب‌پ",
+            "level": "default",
+            "width": 1.5
+          },
+          {
+            "action": "emoji",
+            "iconName": "smile-symbolic"
+          },
+          {
+            "strings": [
+              "،",
+              ":",
+              "!",
+              "؟",
+              "؛",
+              "-",
+              "/",
+              "»",
+              "«"
+            ]
+          },
+          {
+            "strings": [
+              " "
+            ],
+            "width": 4
+          },
+          {
+            "strings": [
+              ".",
+              "ٕ",
+              "ٔ",
+              "ْ",
+              "ٍ",
+              "ٌ",
+              "ً",
+              "ّ",
+              "ٖ",
+              "ٰ",
+              "ٓ",
+              "ِ",
+              "ُ",
+              "َ",
+              "ـ"
+            ]
+          },
+          {
+            "action": "languageMenu",
+            "iconName": "keyboard-layout-symbolic"
+          },
+          {
+            "iconName": "keyboard-enter-symbolic",
+            "keyval": "0xff0d",
+            "width": 1.5
+          }
+        ]
+      ]
+    },
+    {
+      "level": "opt+shift",
+      "mode": "locked",
+      "rows": [
+        [
+          {
+            "height": 0.75,
+            "keyval": "0xff09",
+            "label": "Tab",
+            "width": 2
+          },
+          {
+            "action": "modifier",
+            "height": 0.75,
+            "keyval": "0xffe3",
+            "label": "Ctrl",
+            "width": 2
+          },
+          {
+            "action": "modifier",
+            "height": 0.75,
+            "keyval": "0xffe9",
+            "label": "Alt",
+            "width": 2
+          },
+          {
+            "height": 0.75,
+            "iconName": "go-up-symbolic",
+            "keyval": "0xff52"
+          },
+          {
+            "height": 0.75,
+            "iconName": "go-down-symbolic",
+            "keyval": "0xff54"
+          },
+          {
+            "height": 0.75,
+            "iconName": "go-previous-symbolic",
+            "keyval": "0xff51"
+          },
+          {
+            "height": 0.75,
+            "iconName": "go-next-symbolic",
+            "keyval": "0xff53"
+          }
+        ],
+        [
+          {
+            "strings": [
+              "~"
+            ]
+          },
+          {
+            "strings": [
+              "`"
+            ]
+          },
+          {
+            "strings": [
+              "|"
+            ]
+          },
+          {
+            "strings": [
+              "•",
+              "♪"
+            ]
+          },
+          {
+            "strings": [
+              "√"
+            ]
+          },
+          {
+            "strings": [
+              "Π",
+              "π"
+            ]
+          },
+          {
+            "strings": [
+              "÷"
+            ]
+          },
+          {
+            "strings": [
+              "×"
+            ]
+          },
+          {
+            "strings": [
+              "¶",
+              "§"
+            ]
+          },
+          {
+            "strings": [
+              "∆"
+            ]
+          }
+        ],
+        [
+          {
+            "strings": [
+              "£"
+            ]
+          },
+          {
+            "strings": [
+              "€"
+            ]
+          },
+          {
+            "strings": [
+              "$",
+              "¢"
+            ]
+          },
+          {
+            "strings": [
+              "¢"
+            ]
+          },
+          {
+            "strings": [
+              "^",
+              "↑",
+              "↓",
+              "←",
+              "→"
+            ]
+          },
+          {
+            "strings": [
+              "_"
+            ]
+          },
+          {
+            "strings": [
+              "=",
+              "≠",
+              "≈",
+              "∞"
+            ]
+          },
+          {
+            "strings": [
+              "{"
+            ]
+          },
+          {
+            "strings": [
+              "}"
+            ]
+          },
+          {
+            "strings": [
+              "\\"
+            ]
+          }
+        ],
+        [
+          {
+            "action": "levelSwitch",
+            "label": "123",
+            "level": "opt",
+            "width": 1.5
+          },
+          {
+            "strings": [
+              "°",
+              "′",
+              "″"
+            ]
+          },
+          {
+            "strings": [
+              "©"
+            ]
+          },
+          {
+            "strings": [
+              "®"
+            ]
+          },
+          {
+            "strings": [
+              "™"
+            ]
+          },
+          {
+            "strings": [
+              "℅"
+            ]
+          },
+          {
+            "strings": [
+              "["
+            ]
+          },
+          {
+            "strings": [
+              "]"
+            ]
+          },
+          {
+            "action": "delete",
+            "iconName": "edit-clear-symbolic",
+            "width": 1.5
+          }
+        ],
+        [
+          {
+            "action": "levelSwitch",
+            "label": "ا‌ب‌پ",
+            "level": "default",
+            "width": 1.5
+          },
+          {
+            "action": "emoji",
+            "iconName": "smile-symbolic"
+          },
+          {
+            "strings": [
+              "«",
+              "›",
+              "≥",
+              ">"
+            ]
+          },
+          {
+            "strings": [
+              " "
+            ],
+            "width": 4
+          },
+          {
+            "strings": [
+              "»",
+              "‹",
+              "≤",
+              "<"
+            ]
+          },
+          {
+            "action": "languageMenu",
+            "iconName": "keyboard-layout-symbolic"
+          },
+          {
+            "iconName": "keyboard-enter-symbolic",
+            "keyval": "0xff0d",
+            "width": 1.5
+          }
+        ]
+      ]
+    }
+  ],
+  "locale": "fa",
+  "name": "Persian"
+}
