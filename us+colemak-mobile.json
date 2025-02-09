@@ -260,8 +260,8 @@
             "width": 1.5
           },
           {
-            "action": "emoji",
-            "iconName": "smile-symbolic"
+            "action": "languageMenu",
+            "iconName": "keyboard-layout-symbolic"
           },
           {
             "strings": [
@@ -272,7 +272,7 @@
             "strings": [
               " "
             ],
-            "width": 3
+            "width": 4
           },
           {
             "strings": [
@@ -286,10 +286,6 @@
               "'",
               "@"
             ]
-          },
-          {
-            "action": "languageMenu",
-            "iconName": "keyboard-layout-symbolic"
           },
           {
             "iconName": "keyboard-enter-symbolic",
@@ -559,8 +555,8 @@
             "width": 1.5
           },
           {
-            "action": "emoji",
-            "iconName": "smile-symbolic"
+            "action": "languageMenu",
+            "iconName": "keyboard-layout-symbolic"
           },
           {
             "strings": [
@@ -571,7 +567,7 @@
             "strings": [
               " "
             ],
-            "width": 3
+            "width": 4
           },
           {
             "strings": [
@@ -585,10 +581,6 @@
               "'",
               "@"
             ]
-          },
-          {
-            "action": "languageMenu",
-            "iconName": "keyboard-layout-symbolic"
           },
           {
             "iconName": "keyboard-enter-symbolic",
@@ -861,17 +853,13 @@
             "strings": [
               " "
             ],
-            "width": 3
+            "width": 4
           },
           {
             "strings": [
               ".",
               "…"
             ]
-          },
-          {
-            "action": "languageMenu",
-            "iconName": "keyboard-layout-symbolic"
           },
           {
             "iconName": "keyboard-enter-symbolic",
@@ -1118,7 +1106,7 @@
             "strings": [
               " "
             ],
-            "width": 3
+            "width": 4
           },
           {
             "strings": [
@@ -1127,10 +1115,6 @@
               "≥",
               "»"
             ]
-          },
-          {
-            "action": "languageMenu",
-            "iconName": "keyboard-layout-symbolic"
           },
           {
             "iconName": "keyboard-enter-symbolic",
