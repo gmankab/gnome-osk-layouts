@@ -1,5 +1,5 @@
 compile:
-	glib-compile-resources gnome-shell-osk-layouts.gresource.xml
+	glib-compile-resources gnome-shell-osk-layouts.gresource.xml --sourcedir=layouts
 
 backup:
 	cp /usr/share/gnome-shell/gnome-shell-osk-layouts.gresource gnome-shell-osk-layouts.gresource.bak
