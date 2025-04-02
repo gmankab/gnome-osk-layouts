@@ -6,6 +6,68 @@
       "rows": [
         [
           {
+            "height": 0.75,
+            "strings": [
+              "1"
+            ]
+          },
+          {
+            "height": 0.75,
+            "strings": [
+              "2"
+            ]
+          },
+          {
+            "height": 0.75,
+            "strings": [
+              "3"
+            ]
+          },
+          {
+            "height": 0.75,
+            "strings": [
+              "4"
+            ]
+          },
+          {
+            "height": 0.75,
+            "strings": [
+              "5"
+            ]
+          },
+          {
+            "height": 0.75,
+            "strings": [
+              "6"
+            ]
+          },
+          {
+            "height": 0.75,
+            "strings": [
+              "7"
+            ]
+          },
+          {
+            "height": 0.75,
+            "strings": [
+              "8"
+            ]
+          },
+          {
+            "height": 0.75,
+            "strings": [
+              "9"
+            ]
+          },
+          {
+            "height": 0.75,
+            "strings": [
+              "0"
+            ]
+          }
+        ],
+        [
+          {
             "strings": [
               "й"
             ]
@@ -186,8 +248,8 @@
             "width": 1.5
           },
           {
-            "action": "emoji",
-            "iconName": "smile-symbolic"
+            "action": "languageMenu",
+            "iconName": "osk-layout-symbolic"
           },
           {
             "strings": [
@@ -198,7 +260,7 @@
             "strings": [
               " "
             ],
-            "width": 3
+            "width": 4
           },
           {
             "strings": [
@@ -214,10 +276,6 @@
             ]
           },
           {
-            "action": "languageMenu",
-            "iconName": "osk-layout-symbolic"
-          },
-          {
             "iconName": "osk-enter-symbolic",
             "keyval": "0xff0d",
             "width": 1.5
@@ -229,6 +287,68 @@
       "level": "shift",
       "mode": "latched",
       "rows": [
+        [
+          {
+            "height": 0.75,
+            "strings": [
+              "!"
+            ]
+          },
+          {
+            "height": 0.75,
+            "strings": [
+              "@"
+            ]
+          },
+          {
+            "height": 0.75,
+            "strings": [
+              "#"
+            ]
+          },
+          {
+            "height": 0.75,
+            "strings": [
+              "$"
+            ]
+          },
+          {
+            "height": 0.75,
+            "strings": [
+              "%"
+            ]
+          },
+          {
+            "height": 0.75,
+            "strings": [
+              "^"
+            ]
+          },
+          {
+            "height": 0.75,
+            "strings": [
+              "&"
+            ]
+          },
+          {
+            "height": 0.75,
+            "strings": [
+              "*"
+            ]
+          },
+          {
+            "height": 0.75,
+            "strings": [
+              "("
+            ]
+          },
+          {
+            "height": 0.75,
+            "strings": [
+              ")"
+            ]
+          }
+        ],
         [
           {
             "strings": [
@@ -411,8 +531,8 @@
             "width": 1.5
           },
           {
-            "action": "emoji",
-            "iconName": "smile-symbolic"
+            "action": "languageMenu",
+            "iconName": "osk-layout-symbolic"
           },
           {
             "strings": [
@@ -423,7 +543,7 @@
             "strings": [
               " "
             ],
-            "width": 3
+            "width": 4
           },
           {
             "strings": [
@@ -439,10 +559,6 @@
             ]
           },
           {
-            "action": "languageMenu",
-            "iconName": "osk-layout-symbolic"
-          },
-          {
             "iconName": "osk-enter-symbolic",
             "keyval": "0xff0d",
             "width": 1.5
@@ -454,6 +570,48 @@
       "level": "opt",
       "mode": "locked",
       "rows": [
+        [
+          {
+            "height": 0.75,
+            "keyval": "0xff09",
+            "label": "Tab",
+            "width": 2
+          },
+          {
+            "action": "modifier",
+            "height": 0.75,
+            "keyval": "0xffe3",
+            "label": "Ctrl",
+            "width": 2
+          },
+          {
+            "action": "modifier",
+            "height": 0.75,
+            "keyval": "0xffe9",
+            "label": "Alt",
+            "width": 2
+          },
+          {
+            "height": 0.75,
+            "iconName": "go-previous-symbolic",
+            "keyval": "0xff51"
+          },
+          {
+            "height": 0.75,
+            "iconName": "go-down-symbolic",
+            "keyval": "0xff54"
+          },
+          {
+            "height": 0.75,
+            "iconName": "go-up-symbolic",
+            "keyval": "0xff52"
+          },
+          {
+            "height": 0.75,
+            "iconName": "go-next-symbolic",
+            "keyval": "0xff53"
+          }
+        ],
         [
           {
             "strings": [
@@ -671,17 +829,13 @@
             "strings": [
               " "
             ],
-            "width": 3
+            "width": 4
           },
           {
             "strings": [
               ".",
               "…"
             ]
-          },
-          {
-            "action": "languageMenu",
-            "iconName": "osk-layout-symbolic"
           },
           {
             "iconName": "osk-enter-symbolic",
@@ -695,6 +849,38 @@
       "level": "opt+shift",
       "mode": "locked",
       "rows": [
+        [
+          {
+            "height": 0.75,
+            "keyval": "0xff1b",
+            "label": "Esc",
+            "width": 2
+          },
+          {
+            "height": 0.75,
+            "keyval": "0xff55",
+            "label": "PgUp",
+            "width": 2
+          },
+          {
+            "height": 0.75,
+            "keyval": "0xff56",
+            "label": "PgDn",
+            "width": 2
+          },
+          {
+            "height": 0.75,
+            "keyval": "0xff50",
+            "label": "Home",
+            "width": 2
+          },
+          {
+            "height": 0.75,
+            "keyval": "0xff57",
+            "label": "End",
+            "width": 2
+          }
+        ],
         [
           {
             "strings": [
@@ -886,7 +1072,7 @@
             "strings": [
               " "
             ],
-            "width": 3
+            "width": 4
           },
           {
             "strings": [
@@ -895,10 +1081,6 @@
               "≥",
               "»"
             ]
-          },
-          {
-            "action": "languageMenu",
-            "iconName": "osk-layout-symbolic"
           },
           {
             "iconName": "osk-enter-symbolic",

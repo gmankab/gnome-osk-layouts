@@ -3,6 +3,7 @@
 New/customized layouts:
 - US QWERTY
 - US Colemak
+- Russian ЙЦУКЕН
 - Russian Rulemak
 
 Changes:
