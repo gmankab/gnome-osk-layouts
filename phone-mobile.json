@@ -1,0 +1,158 @@
+{
+  "levels": [
+    {
+      "level": "default",
+      "mode": "default",
+      "rows": [
+        [
+          {
+            "strings": [
+              "1"
+            ]
+          },
+          {
+            "strings": [
+              "2"
+            ]
+          },
+          {
+            "strings": [
+              "3"
+            ]
+          }
+        ],
+        [
+          {
+            "strings": [
+              "4"
+            ]
+          },
+          {
+            "strings": [
+              "5"
+            ]
+          },
+          {
+            "strings": [
+              "6"
+            ]
+          }
+        ],
+        [
+          {
+            "strings": [
+              "7"
+            ]
+          },
+          {
+            "strings": [
+              "8"
+            ]
+          },
+          {
+            "strings": [
+              "9"
+            ]
+          }
+        ],
+        [
+          {
+            "action": "levelSwitch",
+            "label": "+*#",
+            "level": "opt"
+          },
+          {
+            "strings": [
+              "0"
+            ]
+          },
+          {
+            "action": "delete",
+            "iconName": "osk-delete-symbolic"
+          }
+        ]
+      ]
+    },
+    {
+      "level": "opt",
+      "mode": "default",
+      "rows": [
+        [
+          {
+            "disabled": true,
+            "strings": [
+              "1"
+            ]
+          },
+          {
+            "disabled": true,
+            "strings": [
+              "2"
+            ]
+          },
+          {
+            "disabled": true,
+            "strings": [
+              "3"
+            ]
+          }
+        ],
+        [
+          {
+            "label": "Pause",
+            "strings": [
+              ","
+            ]
+          },
+          {
+            "disabled": true,
+            "strings": [
+              "5"
+            ]
+          },
+          {
+            "label": "Wait",
+            "strings": [
+              ";"
+            ]
+          }
+        ],
+        [
+          {
+            "strings": [
+              "*"
+            ]
+          },
+          {
+            "disabled": true,
+            "strings": [
+              "8"
+            ]
+          },
+          {
+            "strings": [
+              "#"
+            ]
+          }
+        ],
+        [
+          {
+            "action": "levelSwitch",
+            "label": "123",
+            "level": "default"
+          },
+          {
+            "strings": [
+              "+"
+            ]
+          },
+          {
+            "action": "delete",
+            "iconName": "osk-delete-symbolic"
+          }
+        ]
+      ]
+    }
+  ],
+  "name": "Phone"
+}

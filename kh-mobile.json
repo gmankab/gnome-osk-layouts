@@ -263,7 +263,7 @@
           },
           {
             "action": "delete",
-            "iconName": "edit-clear-symbolic",
+            "iconName": "osk-delete-symbolic",
             "leftOffset": 0.25,
             "width": 1.75
           }
@@ -305,10 +305,10 @@
           },
           {
             "action": "languageMenu",
-            "iconName": "keyboard-layout-symbolic"
+            "iconName": "osk-layout-symbolic"
           },
           {
-            "iconName": "keyboard-enter-symbolic",
+            "iconName": "osk-enter-symbolic",
             "keyval": "0xff0d",
             "width": 1.5
           }
@@ -513,7 +513,7 @@
           },
           {
             "action": "delete",
-            "iconName": "edit-clear-symbolic",
+            "iconName": "osk-delete-symbolic",
             "width": 1.5
           }
         ],
@@ -547,10 +547,10 @@
           },
           {
             "action": "languageMenu",
-            "iconName": "keyboard-layout-symbolic"
+            "iconName": "osk-layout-symbolic"
           },
           {
-            "iconName": "keyboard-enter-symbolic",
+            "iconName": "osk-enter-symbolic",
             "keyval": "0xff0d",
             "width": 1.5
           }
@@ -725,7 +725,7 @@
           },
           {
             "action": "delete",
-            "iconName": "edit-clear-symbolic",
+            "iconName": "osk-delete-symbolic",
             "width": 1.5
           }
         ],
@@ -764,10 +764,10 @@
           },
           {
             "action": "languageMenu",
-            "iconName": "keyboard-layout-symbolic"
+            "iconName": "osk-layout-symbolic"
           },
           {
-            "iconName": "keyboard-enter-symbolic",
+            "iconName": "osk-enter-symbolic",
             "keyval": "0xff0d",
             "width": 1.5
           }

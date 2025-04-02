@@ -84,15 +84,15 @@
             ]
           },
           {
-            "iconName": "edit-clear-symbolic",
             "action": "delete",
+            "iconName": "osk-delete-symbolic",
             "width": 2
           }
         ],
         [
           {
             "action": "levelSwitch",
-            "iconName": "keyboard-caps-lock-symbolic",
+            "iconName": "osk-caps-lock-symbolic",
             "level": "shift",
             "width": 1.5
           },
@@ -151,7 +151,7 @@
             ]
           },
           {
-            "iconName": "keyboard-enter-symbolic",
+            "iconName": "osk-enter-symbolic",
             "keyval": "0xff0d",
             "width": 2.5
           }
@@ -159,7 +159,7 @@
         [
           {
             "action": "levelSwitch",
-            "iconName": "keyboard-shift-symbolic",
+            "iconName": "osk-shift-symbolic",
             "level": "shift",
             "width": 2
           },
@@ -220,7 +220,7 @@
           },
           {
             "action": "levelSwitch",
-            "iconName": "keyboard-shift-symbolic",
+            "iconName": "osk-shift-symbolic",
             "level": "shift",
             "width": 2
           }
@@ -242,18 +242,18 @@
             "label": "Alt"
           },
           {
+            "action": "emoji",
+            "iconName": "osk-emoji-picker-symbolic"
+          },
+          {
             "strings": [
               " "
             ],
             "width": 4
           },
           {
-            "action": "emoji",
-            "iconName": "face-smile-symbolic"
-          },
-          {
             "action": "languageMenu",
-            "iconName": "keyboard-layout-symbolic"
+            "iconName": "osk-layout-symbolic"
           },
           {
             "iconName": "go-previous-symbolic",
@@ -269,7 +269,7 @@
           },
           {
             "action": "hide",
-            "iconName": "keyboard-hide-symbolic"
+            "iconName": "osk-hide-symbolic"
           }
         ]
       ]
@@ -358,15 +358,15 @@
             ]
           },
           {
-            "iconName": "edit-clear-symbolic",
-            "keyval": "0xff08",
+            "action": "delete",
+            "iconName": "osk-delete-symbolic",
             "width": 2
           }
         ],
         [
           {
             "action": "levelSwitch",
-            "iconName": "keyboard-caps-lock-symbolic",
+            "iconName": "osk-caps-lock-symbolic",
             "level": "default",
             "width": 1.5
           },
@@ -425,7 +425,7 @@
             ]
           },
           {
-            "iconName": "keyboard-enter-symbolic",
+            "iconName": "osk-enter-symbolic",
             "keyval": "0xff0d",
             "width": 2.5
           }
@@ -433,7 +433,7 @@
         [
           {
             "action": "levelSwitch",
-            "iconName": "keyboard-shift-symbolic",
+            "iconName": "osk-shift-symbolic",
             "level": "default",
             "width": 2
           },
@@ -494,7 +494,7 @@
           },
           {
             "action": "levelSwitch",
-            "iconName": "keyboard-shift-symbolic",
+            "iconName": "osk-shift-symbolic",
             "level": "default",
             "width": 2
           }
@@ -516,18 +516,18 @@
             "label": "Alt"
           },
           {
+            "action": "emoji",
+            "iconName": "osk-emoji-picker-symbolic"
+          },
+          {
             "strings": [
               " "
             ],
             "width": 4
           },
           {
-            "action": "emoji",
-            "iconName": "face-smile-symbolic"
-          },
-          {
             "action": "languageMenu",
-            "iconName": "keyboard-layout-symbolic"
+            "iconName": "osk-layout-symbolic"
           },
           {
             "iconName": "go-previous-symbolic",
@@ -543,7 +543,7 @@
           },
           {
             "action": "hide",
-            "iconName": "keyboard-hide-symbolic"
+            "iconName": "osk-hide-symbolic"
           }
         ]
       ]
@@ -553,6 +553,11 @@
       "mode": "locked",
       "rows": [
         [
+          {
+            "keyval": "0xff09",
+            "label": "Tab",
+            "width": 1
+          },
           {
             "strings": [
               "1",
@@ -619,14 +624,14 @@
             ]
           },
           {
-            "iconName": "edit-clear-symbolic",
-            "keyval": "0xff08",
-            "width": 1.5
+            "action": "delete",
+            "iconName": "osk-delete-symbolic",
+            "width": 2
           }
         ],
         [
           {
-            "leftOffset": 0.5,
+            "leftOffset": 1.5,
             "strings": [
               "@"
             ]
@@ -689,9 +694,9 @@
             ]
           },
           {
-            "iconName": "keyboard-enter-symbolic",
+            "iconName": "osk-enter-symbolic",
             "keyval": "0xff0d",
-            "width": 2
+            "width": 2.5
           }
         ],
         [
@@ -699,9 +704,10 @@
             "action": "levelSwitch",
             "label": "=/<",
             "level": "opt+shift",
-            "width": 1.5
+            "width": 2
           },
           {
+            "leftOffset": 1,
             "strings": [
               "*",
               "†",
@@ -750,18 +756,28 @@
             ]
           },
           {
+            "leftOffset": 1,
             "action": "levelSwitch",
             "label": "=/<",
             "level": "opt+shift",
-            "width": 3
+            "width": 2
           }
         ],
         [
           {
+            "action": "modifier",
+            "keyval": "0xffe3",
+            "label": "Ctrl"
+          },
+          {
             "action": "levelSwitch",
             "label": "ABC",
-            "level": "default",
-            "width": 1.5
+            "level": "default"
+          },
+          {
+            "action": "modifier",
+            "keyval": "0xffe9",
+            "label": "Alt"
           },
           {
             "strings": [
@@ -792,15 +808,15 @@
           },
           {
             "action": "emoji",
-            "iconName": "face-smile-symbolic"
+            "iconName": "osk-emoji-picker-symbolic"
           },
           {
             "action": "languageMenu",
-            "iconName": "keyboard-layout-symbolic"
+            "iconName": "osk-layout-symbolic"
           },
           {
             "action": "hide",
-            "iconName": "keyboard-hide-symbolic"
+            "iconName": "osk-hide-symbolic"
           }
         ]
       ]
@@ -810,6 +826,11 @@
       "mode": "locked",
       "rows": [
         [
+          {
+            "keyval": "0xff09",
+            "label": "Tab",
+            "width": 1
+          },
           {
             "strings": [
               "~"
@@ -868,14 +889,14 @@
             ]
           },
           {
-            "iconName": "edit-clear-symbolic",
-            "keyval": "0xff08",
-            "width": 1.5
+            "action": "delete",
+            "iconName": "osk-delete-symbolic",
+            "width": 2
           }
         ],
         [
           {
-            "leftOffset": 0.5,
+            "leftOffset": 1.5,
             "strings": [
               "£"
             ]
@@ -930,9 +951,9 @@
             ]
           },
           {
-            "iconName": "keyboard-enter-symbolic",
+            "iconName": "osk-enter-symbolic",
             "keyval": "0xff0d",
-            "width": 2
+            "width": 2.5
           }
         ],
         [
@@ -940,9 +961,10 @@
             "action": "levelSwitch",
             "label": "?123",
             "level": "opt",
-            "width": 1.5
+            "width": 2
           },
           {
+            "leftOffset": 1,
             "strings": [
               "\\"
             ]
@@ -978,18 +1000,28 @@
             ]
           },
           {
+            "leftOffset": 1,
             "action": "levelSwitch",
             "label": "?123",
             "level": "opt",
-            "width": 3
+            "width": 2
           }
         ],
         [
           {
+            "action": "modifier",
+            "keyval": "0xffe3",
+            "label": "Ctrl"
+          },
+          {
             "action": "levelSwitch",
             "label": "ABC",
-            "level": "default",
-            "width": 1.5
+            "level": "default"
+          },
+          {
+            "action": "modifier",
+            "keyval": "0xffe9",
+            "label": "Alt"
           },
           {
             "strings": [
@@ -1026,15 +1058,15 @@
           },
           {
             "action": "emoji",
-            "iconName": "face-smile-symbolic"
+            "iconName": "osk-emoji-picker-symbolic"
           },
           {
             "action": "languageMenu",
-            "iconName": "keyboard-layout-symbolic"
+            "iconName": "osk-layout-symbolic"
           },
           {
             "action": "hide",
-            "iconName": "keyboard-hide-symbolic"
+            "iconName": "osk-hide-symbolic"
           }
         ]
       ]

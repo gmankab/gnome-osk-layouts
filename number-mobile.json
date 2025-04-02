@@ -7,6 +7,52 @@
         [
           {
             "strings": [
+              "1"
+            ]
+          },
+          {
+            "strings": [
+              "2"
+            ]
+          },
+          {
+            "strings": [
+              "3"
+            ]
+          },
+          {
+            "strings": [
+              "-",
+              "+",
+              "E"
+            ]
+          }
+        ],
+        [
+          {
+            "strings": [
+              "4"
+            ]
+          },
+          {
+            "strings": [
+              "5"
+            ]
+          },
+          {
+            "strings": [
+              "6"
+            ]
+          },
+          {
+            "strings": [
+              ","
+            ]
+          }
+        ],
+        [
+          {
+            "strings": [
               "7"
             ]
           },
@@ -28,48 +74,7 @@
         [
           {
             "strings": [
-              "4"
-            ]
-          },
-          {
-            "strings": [
-              "5"
-            ]
-          },
-          {
-            "strings": [
-              "6"
-            ]
-          },
-          {
-            "iconName": "osk-enter-symbolic",
-            "keyval": "0xff0d",
-            "height": 2
-          }
-        ],
-        [
-          {
-            "strings": [
-              "1"
-            ]
-          },
-          {
-            "strings": [
-              "2"
-            ]
-          },
-          {
-            "strings": [
-              "3"
-            ]
-          }
-        ],
-        [
-          {
-            "strings": [
-              "-",
-              "+",
-              "E"
+              "."
             ]
           },
           {
@@ -78,14 +83,14 @@
             ]
           },
           {
+            "label": "⎽",
             "strings": [
-              ".",
-              ","
+              " "
             ]
           },
           {
-            "action": "hide",
-            "iconName": "osk-hide-symbolic"
+            "iconName": "osk-enter-symbolic",
+            "keyval": "0xff0d"
           }
         ]
       ]
