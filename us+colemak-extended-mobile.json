@@ -722,59 +722,34 @@
         ],
         [
           {
-            "action": "modifier",
             "height": 0.75,
-            "keyval": "0xffe1",
-            "label": "Shift",
+            "keyval": "0xff1b",
+            "label": "Esc",
             "width": 2
           },
           {
             "height": 0.75,
-            "strings": [
-              "c"
-            ]
+            "keyval": "0xff55",
+            "label": "PgUp",
+            "width": 2
           },
           {
             "height": 0.75,
-            "strings": [
-              "v"
-            ]
+            "keyval": "0xff56",
+            "label": "PgDn",
+            "width": 2
           },
           {
             "height": 0.75,
-            "strings": [
-              ":"
-            ]
+            "keyval": "0xff50",
+            "label": "Home",
+            "width": 2
           },
           {
             "height": 0.75,
-            "strings": [
-              "w"
-            ]
-          },
-          {
-            "height": 0.75,
-            "strings": [
-              "q"
-            ]
-          },
-          {
-            "height": 0.75,
-            "strings": [
-              "a"
-            ]
-          },
-          {
-            "height": 0.75,
-            "strings": [
-              "e"
-            ]
-          },
-          {
-            "height": 0.75,
-            "strings": [
-              "~"
-            ]
+            "keyval": "0xff57",
+            "label": "End",
+            "width": 2
           }
         ],
         [
@@ -1058,59 +1033,34 @@
         ],
         [
           {
-            "action": "modifier",
             "height": 0.75,
-            "keyval": "0xffe1",
-            "label": "Shift",
+            "keyval": "0xff1b",
+            "label": "Esc",
             "width": 2
           },
           {
             "height": 0.75,
-            "strings": [
-              "c"
-            ]
+            "keyval": "0xff55",
+            "label": "PgUp",
+            "width": 2
           },
           {
             "height": 0.75,
-            "strings": [
-              "v"
-            ]
+            "keyval": "0xff56",
+            "label": "PgDn",
+            "width": 2
           },
           {
             "height": 0.75,
-            "strings": [
-              ":"
-            ]
+            "keyval": "0xff50",
+            "label": "Home",
+            "width": 2
           },
           {
             "height": 0.75,
-            "strings": [
-              "w"
-            ]
-          },
-          {
-            "height": 0.75,
-            "strings": [
-              "q"
-            ]
-          },
-          {
-            "height": 0.75,
-            "strings": [
-              "a"
-            ]
-          },
-          {
-            "height": 0.75,
-            "strings": [
-              "e"
-            ]
-          },
-          {
-            "height": 0.75,
-            "strings": [
-              "~"
-            ]
+            "keyval": "0xff57",
+            "label": "End",
+            "width": 2
           }
         ],
         [
