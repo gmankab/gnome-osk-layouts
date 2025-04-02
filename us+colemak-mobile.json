@@ -206,7 +206,7 @@
         [
           {
             "action": "levelSwitch",
-            "iconName": "keyboard-shift-symbolic",
+            "iconName": "osk-shift-symbolic",
             "level": "shift",
             "width": 1.5
           },
@@ -248,7 +248,7 @@
           },
           {
             "action": "delete",
-            "iconName": "edit-clear-symbolic",
+            "iconName": "osk-delete-symbolic",
             "width": 1.5
           }
         ],
@@ -261,7 +261,7 @@
           },
           {
             "action": "languageMenu",
-            "iconName": "keyboard-layout-symbolic"
+            "iconName": "osk-layout-symbolic"
           },
           {
             "strings": [
@@ -288,7 +288,7 @@
             ]
           },
           {
-            "iconName": "keyboard-enter-symbolic",
+            "iconName": "osk-enter-symbolic",
             "keyval": "0xff0d",
             "width": 1.5
           }
@@ -501,7 +501,7 @@
         [
           {
             "action": "levelSwitch",
-            "iconName": "keyboard-shift-symbolic",
+            "iconName": "osk-shift-symbolic",
             "level": "default",
             "width": 1.5
           },
@@ -543,7 +543,7 @@
           },
           {
             "action": "delete",
-            "iconName": "edit-clear-symbolic",
+            "iconName": "osk-delete-symbolic",
             "width": 1.5
           }
         ],
@@ -556,7 +556,7 @@
           },
           {
             "action": "languageMenu",
-            "iconName": "keyboard-layout-symbolic"
+            "iconName": "osk-layout-symbolic"
           },
           {
             "strings": [
@@ -583,7 +583,7 @@
             ]
           },
           {
-            "iconName": "keyboard-enter-symbolic",
+            "iconName": "osk-enter-symbolic",
             "keyval": "0xff0d",
             "width": 1.5
           }
@@ -829,7 +829,7 @@
           },
           {
             "action": "delete",
-            "iconName": "edit-clear-symbolic",
+            "iconName": "osk-delete-symbolic",
             "width": 1.5
           }
         ],
@@ -862,7 +862,7 @@
             ]
           },
           {
-            "iconName": "keyboard-enter-symbolic",
+            "iconName": "osk-enter-symbolic",
             "keyval": "0xff0d",
             "width": 1.5
           }
@@ -1079,7 +1079,7 @@
           },
           {
             "action": "delete",
-            "iconName": "edit-clear-symbolic",
+            "iconName": "osk-delete-symbolic",
             "width": 1.5
           }
         ],
@@ -1117,7 +1117,7 @@
             ]
           },
           {
-            "iconName": "keyboard-enter-symbolic",
+            "iconName": "osk-enter-symbolic",
             "keyval": "0xff0d",
             "width": 1.5
           }
