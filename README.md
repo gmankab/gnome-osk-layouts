@@ -1,6 +1,7 @@
 # Custom layouts for Gnome Mobile's On-Screen Keyboard
 
 New/customized layouts:
+- US QWERTY
 - US Colemak
 - Russian Rulemak
 
