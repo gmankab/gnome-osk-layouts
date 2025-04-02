@@ -853,43 +853,33 @@
         [
           {
             "height": 0.75,
-            "keyval": "0xff09",
-            "label": "Tab",
-            "width": 2
-          },
-          {
-            "action": "modifier",
-            "height": 0.75,
-            "keyval": "0xffe3",
-            "label": "Ctrl",
-            "width": 2
-          },
-          {
-            "action": "modifier",
-            "height": 0.75,
-            "keyval": "0xffe9",
-            "label": "Alt",
+            "keyval": "0xff1b",
+            "label": "Esc",
             "width": 2
           },
           {
             "height": 0.75,
-            "iconName": "go-previous-symbolic",
-            "keyval": "0xff51"
+            "keyval": "0xff55",
+            "label": "PgUp",
+            "width": 2
           },
           {
             "height": 0.75,
-            "iconName": "go-down-symbolic",
-            "keyval": "0xff54"
+            "keyval": "0xff56",
+            "label": "PgDn",
+            "width": 2
           },
           {
             "height": 0.75,
-            "iconName": "go-up-symbolic",
-            "keyval": "0xff52"
+            "keyval": "0xff50",
+            "label": "Home",
+            "width": 2
           },
           {
             "height": 0.75,
-            "iconName": "go-next-symbolic",
-            "keyval": "0xff53"
+            "keyval": "0xff57",
+            "label": "End",
+            "width": 2
           }
         ],
         [
